@@ -5,7 +5,7 @@ import java.util.Locale;
 public class saidaDeDados {
 
 	public static void main(String[] args) {
-		
+
 		double x = 10.35784;
 		String nome = "Maria";
 		int idade = 31;
